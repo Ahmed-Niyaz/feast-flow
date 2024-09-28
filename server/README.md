@@ -4,6 +4,8 @@
 
 This is a full-stack food ordering web application developed using **React.js**, **MongoDB**, **Express.js**, **Node.js**, and **Stripe**. The app provides users with a seamless experience of browsing, adding food items to the cart, making secure payments(mock integration), and tracking their orders. It also features an admin panel for managing food items, and orders. This project highlights web development practices, including state management, routing, secure payment processing, and efficient data communication.
 
+## [Demo](https://drive.google.com/file/d/1BHFcOuMDQ6crp4kLw-dUKVy1vRadaGC-/view?usp=drive_link)
+
 ## Features
 
 ### User Features
